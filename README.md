@@ -1,3 +1,7 @@
 # PowerBall
 This is Project 1 for cis 296 class
-![image](https://github.com/yourusername/PowerBallProject/assets/.../somehash.png)
+### Simulator Running
+![Simulator Screenshot](screenshots/powerball.png)
+
+### Unit Tests Passing
+![Unit Tests Screenshot](screenshots/powerballTest.png)
